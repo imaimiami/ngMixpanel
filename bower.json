@@ -1,0 +1,25 @@
+{
+  "name": "ngMixpanel",
+  "version": "1.0.0",
+  "authors": [
+    "imaimiami"
+  ],
+  "description": "angular mixpanel directive",
+  "main": "src/ng-mixpanel.js src/ng-mixpanel.min.js",
+  "keywords": [
+    "angular",
+    "mixpanel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/imaimiami/ngMixpanel.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.3"
+  }
+}

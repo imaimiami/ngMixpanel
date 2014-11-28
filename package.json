@@ -1,0 +1,23 @@
+{
+  "name": "ngMixpanel",
+  "version": "1.0.0",
+  "description": "angular mixpanel directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imaimiami/ngMixpanel.git"
+  },
+  "keywords": [
+    "angular",
+    "mixpanel"
+  ],
+  "author": "imaimiami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imaimiami/ngMixpanel/issues"
+  },
+  "homepage": "https://github.com/imaimiami/ngMixpanel"
+}
