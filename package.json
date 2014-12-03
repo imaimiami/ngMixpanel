@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/imaimiami/ngMixpanel/issues"
   },
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-contrib-uglify": "~0.6.0"
+  },
   "homepage": "https://github.com/imaimiami/ngMixpanel"
 }
